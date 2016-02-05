@@ -1,0 +1,12 @@
+au/com/edimoto/spring/service/UserService.class
+au/com/edimoto/spring/dto/ValidationErrorDTO.class
+au/com/edimoto/spring/configuration/CORSFilter.class
+au/com/edimoto/spring/controller/GlobalControllerExceptionHandlerRestFul.class
+au/com/edimoto/spring/dto/FieldErrorDTO.class
+au/com/edimoto/spring/service/UserServiceImpl.class
+au/com/edimoto/spring/configuration/AppInitializer.class
+au/com/edimoto/spring/controller/AppMainController.class
+au/com/edimoto/spring/controller/AppRestfulController.class
+au/com/edimoto/spring/configuration/AppConfiguration.class
+au/com/edimoto/spring/model/User.class
+au/com/edimoto/spring/configuration/JsonpAdvice.class

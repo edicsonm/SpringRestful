@@ -1,0 +1,18 @@
+<jboss-deployment-structure xmlns="urn:jboss:deployment-structure:1.2">
+	<deployment>
+		<dependencies>
+			<module name="org.hibernate" slot="4.3.5.Final" meta-inf="import" />
+			<module name="org.hibernate.validator" meta-inf="import" />
+			
+			<!-- <module name="org.javassist"/>
+			<module name="javax.servlet.jstl.api"/>
+			<module name="javax.servlet.jsp.api"/>
+			<module name="javax.persistence.api"/>
+			<module name="com.mysql.driver" export="true"/>
+			<module name="org.springframework" meta-inf="import" />
+			<module name="org.springframework.security" meta-inf="import" />
+			<module name="javax.validation.api"/>	 -->		
+			
+		</dependencies>
+	</deployment>
+</jboss-deployment-structure>
